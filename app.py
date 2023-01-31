@@ -1,1 +1,1 @@
-print("3rd")
+print("3rd　です！")
